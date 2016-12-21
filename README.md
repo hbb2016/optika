@@ -1,0 +1,2 @@
+# optika
+stady project
